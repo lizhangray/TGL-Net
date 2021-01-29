@@ -1,0 +1,34 @@
+#!/bin/bash
+
+
+while getopts 'm:t:s:' ARGS
+do
+case $ARGS in
+	m)
+		model_path=$OPTARG
+		;;
+	t)
+		test_path=$OPTARG
+		;;
+	s)
+		out_path=$OPTARG
+		;;
+	--) 
+		break
+		;;
+esac
+done
+
+
+
+
+for file in $test_path
+do
+	echo $file
+	python run_bak.py -d $model_path -t $file -o $out_path -e 1
+done
+
+
+
+
+echo "Done!!!"
