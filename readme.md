@@ -17,11 +17,6 @@ It can be used for image dehazing / image defogging / image enhancement on light
 3.  NVIDIA GPU + CUDA CuDNN (CUDA 10.0)
 
 ## Citing 
-# Reference Paper: 
-#   Z. Li, J. Zhang, R. Zhong, B. Bhanu, Y. Chen, Q. Zhang, H. Tang
-#   Lightweight and Efficient Image Dehazing Network Guided by Transmission Estimation from Real-world Hazy Scenes
-#   Sensors. MDPI, Basel, Switzerland. 1 February 2021 
-# Any questions please contact：lizhangray@qq.com
 The code is free for academic/research purpose. Please kindly cite our work in your publications if it helps your research.  
 
 ```BibTeX
