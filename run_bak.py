@@ -1,3 +1,10 @@
+# Authorized by Li Zhan: lizhangray@qq.com on the date 20210201
+# Reference Paper: 
+#   Z. Li, J. Zhang, R. Zhong, B. Bhanu, Y. Chen, Q. Zhang, H. Tang
+#   Lightweight and Efficient Image Dehazing Network Guided by Transmission Estimation from Real-world Hazy Scenes
+#   Sensors. MDPI, Basel, Switzerland. 1 February 2021 
+
+
 import tensorflow as tf
 import cv2
 import numpy as np
