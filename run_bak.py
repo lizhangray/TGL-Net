@@ -1,7 +1,7 @@
 # Reference Paper: 
 #   Z. Li, J. Zhang, R. Zhong, B. Bhanu, Y. Chen, Q. Zhang, H. Tang
 #   Lightweight and Efficient Image Dehazing Network Guided by Transmission Estimation from Real-world Hazy Scenes
-#   Sensors. MDPI, Basel, Switzerland. 1 February 2021 
+#    Sensors 2021, 21(3), 960; https://doi.org/10.3390/s21030960
 # Any questions please contact：lizhangray@qq.com
 
 
