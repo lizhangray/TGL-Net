@@ -1,6 +1,6 @@
 # Lightweight and Efficient Image Dehazing Network Guided by Transmission Estimation from Real-world Hazy Scenes
 
-Python code for our Sensors 2021 paper "Z. Li, J. Zhang, R. Zhong, B. Bhanu, Y. Chen, Q. Zhang, H. Tang. Lightweight and Efficient Image Dehazing Network Guided by Transmission Estimation from Real-world Hazy Scenes."  
+Python code for our sensors. MDPI 2021 paper "Z. Li, J. Zhang, R. Zhong, B. Bhanu, Y. Chen, Q. Zhang, H. Tang. Lightweight and Efficient Image Dehazing Network Guided by Transmission Estimation from Real-world Hazy Scenes."  
 It can be used for image dehazing / image defogging / image enhancement on light computating load machines.
 
 ## Run
